@@ -589,10 +589,11 @@ header[role="title-page"] h2, header[role="title-page"] h2 {
 /*== Footer ==*/
 
 .subfooter {
-	     background-color: #002233;
-     color: #fff;
-	     padding-top: 50px;
+	background-color: #002233;
+    color: #fff;
+	padding-top: 50px;
 	padding-bottom: 50px;
+	text-align: center;
 }
 
 
