@@ -653,12 +653,15 @@ header[role="title-page"] h2, header[role="title-page"] h2 {
 
 
 
-
+@media (min-width: 768px){
 .logo {
-    
-	max-width:  90px;
-    
-}
+	max-width:  50%;
+	}}
+
+@media (max-width: 767px){
+.logo {
+	max-width:  35%;
+	}}
 
 .upcase {
     text-transform:  uppercase;
