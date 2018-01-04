@@ -366,7 +366,8 @@ header[role="title-page"] h2, header[role="title-page"] h2 {
 /*== Section One ==*/
 
 .section-one {
-     padding-top: 87px;
+     padding-top: 95px;
+    padding-bottom: 95px;
 }
 
 .section-one article {
@@ -487,7 +488,8 @@ header[role="title-page"] h2, header[role="title-page"] h2 {
 /*== Section Six ==*/
 
 .section-six {
-    padding-top: 87px;
+        padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 
